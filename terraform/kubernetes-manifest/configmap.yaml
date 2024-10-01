@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: spring-app-config
-data:
-  SPRING_DATASOURCE_URL: jdbc:mysql://$(MYSQL_HOST)/$(MYSQL_DATABASE)
-  SPRING_DATASOURCE_USERNAME: $(MYSQL_USER)
-  SPRING_DATASOURCE_PASSWORD: $(MYSQL_PASSWORD)
