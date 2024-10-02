@@ -1,5 +1,5 @@
 
-# Tech Challenge - FIAP
+# Tech Challenge - FIAP 
 O projeto lanchonete foi desenvolvido para aplicar os conceitos aprendidos no curso de pós graduação em arquitetura de software da faculdade FIAP, esses conceitos consistem no desenvolvimento a partir do refinamento utilizando a metodologia de eventstorm (DDD), aplicando a arquitetura hexagonal e o docker.
 
 ## Integrantes do Grupo 70
